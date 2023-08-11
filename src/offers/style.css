@@ -1,0 +1,82 @@
+.back{
+    margin: 50px 50px;
+    background-color: white;
+    padding: 50px 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.name{
+    font-size: 40px;
+    color: #337A5B;
+    margin-top: -80px;
+    overflow: hidden;
+    font-weight: bolder;
+   
+
+    
+}
+
+.offer {
+   
+    margin-left: 100px;
+    margin-top:  -70px;
+    color: black;
+    font-size: 20px;
+    white-space:pre-wrap;
+    display: block;
+    
+   
+}
+.three{
+    display: flex;
+    justify-content: space-between;
+}
+
+.indoorPlant{
+  display: inline-block;
+  text-align: left;
+  padding: 20px;
+  flex: 1;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  margin: 50px;
+  border: 2px solid white;
+  background-color: white;
+  border-radius: 10px;
+}
+.plantport{
+    display: inline-block;
+    padding: 20px;
+    flex: 1;
+    border: 2px solid  white;
+    margin: 50px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    border-radius: 6px;
+    
+}
+.outdoorText{ 
+display: inline-block;
+padding: 10px 10px ;
+color: white;
+
+}
+ p{
+   
+    text-align: center;
+
+}
+.all{
+    background-color:  #337A5B;
+    height: 410px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 6px;
+    flex-direction: column;
+    text-align: left;
+}
+.text{
+    text-align: center;
+}
+.outdoor{
+    color: white;
+}

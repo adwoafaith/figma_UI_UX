@@ -1,0 +1,110 @@
+.background{
+    background-image:url('../assets/image\ 1.png');
+    background-size: cover;
+    background-position: center;
+    box-sizing: content-box;
+    background-repeat: no-repeat;
+    -webkit-background-composite: unset;
+    height: 100vh;
+    margin: 0px;
+    padding: 0px;
+}
+.home{
+   size:18px;
+   width: 75px;
+}
+.texts {
+text-align: right;
+display: flex;
+justify-content: flex-end;
+color: white;
+margin-top: -65px;
+}
+.texts span{
+    color: white;
+    margin-right: 20px;
+    padding: 40px 20px;
+}
+.texts a{
+   color: white;
+   text-decoration:underline;
+   margin-right: 20px;
+   padding: 40px 20px;
+
+}
+.texts a:hover{
+    color: brown;
+}
+.texts a {
+    color: white;
+}
+.texts button{
+   background-color: transparent;
+   color:white;
+    cursor: pointer;
+    padding:40px 20px;
+    border-color: white;
+    border-radius: 10px;
+    margin: 100px 10px;
+    padding: 10px 20px;
+    border: 1px solid;
+    margin-top: 35px;
+    
+   
+
+}
+.texts button:hover{
+    color: brown;
+   
+}
+h1{
+    margin: 100px;
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+    font-size: 50px;
+}
+.nature{
+    text-align: center;
+    color: white;
+}
+.button{
+    text-align: center;
+    color: white;
+    background-color:  #337A5B;
+    border-radius: 5px;
+}
+.button-container{
+ border: none;
+display: flex;
+justify-content: center;
+}
+.button{
+    padding: 10px 20px;
+    color: white;
+    border: none;
+    margin-right: 10px;
+   }
+.btns{
+    padding: 10px 20px;
+    background-color:transparent;
+    border-color: white;
+    color: white;
+    cursor: pointer;
+    margin-left: 10px;
+    border: 1px solid ;
+    border-radius: 5px;
+    
+}
+.heading{
+    margin-top: -30px;
+  
+}
+.nature{
+    text-align: center;
+    margin-top: -70px;
+}
+.myIcon{
+    margin-left: 40px;
+
+}
