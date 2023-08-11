@@ -1,0 +1,75 @@
+*{
+    
+ 
+}
+.heading{
+    text-align: center;
+    color: green;
+    font-weight: bolder;
+    text-align: center;
+ 
+  position: relative
+}
+.heading{
+    position:absolute;
+    top: 50px;
+    left: 500px;
+
+}
+
+.container-all{
+    padding: 50px;
+    height: 500px;
+    display: flex; /* Use display flex to create a flex container */
+    flex-wrap: nowrap; /* Prevent wrapping to keep items on one line */
+    overflow-x: auto;
+   
+}
+.information{
+word-wrap: break-word;
+}
+
+
+.overall{
+    height: 350px;
+    
+    display: flex;
+  
+}
+.names{
+position: absolute;
+
+}
+.names{
+    position:relative;
+    left: 100px;
+    top: 20px;
+}
+.mydesign{
+  
+
+    box-shadow: 2px 2px 2px rgba(0, green, blue, alpha);
+    box-sizing: border-box; 
+    border: 2px solid white;
+    background-color: rgb(24, 44, 136);
+     
+}
+.icons-back{
+    width: 20px;
+    opacity: 100px;
+    height: 10px;
+ 
+ 
+}
+.icons-back img{
+    position:absolute;
+    opacity: 2px;
+    width: 100px;
+  
+  
+    
+}
+.icons-back img{
+    position: relative;
+    left: 100px;
+}
