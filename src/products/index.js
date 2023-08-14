@@ -10,11 +10,11 @@ const Products =()=>{
 const [icon,setIcon] = useState(false)
 
   return (
-    <div className='body'>
+    <div className='body-container'>
       <div className='body'>
         
      
-          <div className='title'>
+          <div className='titled'>
             What We Offer
           </div>
       <div className='cactus-container'>

@@ -1,0 +1,137 @@
+.myfooter{
+    position: relative;
+    top: 120px;
+    margin-top: 20px;
+    padding: 50px 50px; 
+    height: 374px;
+    background-color: #285A43;
+   
+}
+.heder{
+    position: absolute;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 140%;
+}
+.heder{
+    position: relative;
+    top: 70px;
+    left: 500px;
+}
+.footer-images{
+    position: absolute;
+    display: flex;
+    text-align: center;
+    left: 564px;
+    top: 148px;
+    
+
+}
+.footer-images{
+    position: relative;
+    
+}
+.rectangle21{
+    position: relative;
+    top: -152px;
+    left: -50px;
+    width: 1440px;
+   box-sizing:content-box;
+    
+}
+.facebook img{
+    position: absolute;
+    left: 120px;
+   }
+.twitter img{
+    top: 2px;
+    position: absolute;
+    left: 240px;
+   
+}
+.mostera{
+    position: absolute;
+}
+.mostera{
+    position: relative;
+    top: 109.3px;
+    left: 33px;
+    
+}
+.mostera img{
+    color: #FFFFFF;
+}
+.content{
+    position: absolute;
+    justify-content: space-between;
+    
+}
+.content{
+    position: relative;
+    left: 380.58px;
+    bottom: 200px;
+    color: #FFF;
+    opacity: 0.85px;
+    font-family: Raleway;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%;
+    bottom: 250px;
+    
+}
+.fern{
+    position: absolute;
+}
+.fern{
+    position: relative;
+    left: 1000px;
+    bottom: 82px;
+  
+}
+.myHome{
+ position: absolute;
+}
+.myHome{
+    position: relative;
+    left: 20px;
+}
+.About-us{
+    position: absolute;
+}
+.About-us{
+    position: relative;
+    left: 60px;
+}
+.Plants{
+    position: absolute;
+}
+.Plants{
+    position: relative;
+    left: 90px;
+}
+.delivery{
+    position: absolute;
+}
+.delivery{
+    position: relative;
+    left: 120px;
+}
+
+.footer-blog{
+position: absolute;
+}
+.footer-blog{
+    position: relative;
+    left: 150px;
+}
+.contact-us{
+    position: absolute;
+    left: 200px;
+}
+.contact-us{
+    position: relative;
+}

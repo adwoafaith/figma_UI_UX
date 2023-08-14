@@ -1,4 +1,7 @@
-
+.body-container{
+    position: relative;
+    top: 120px;
+}
 .container{
     background-color:white;
     margin: 10px 10px;
@@ -54,12 +57,15 @@
     color: #337A5B;
 }
 
-.title{
+.titled{
+  position: relative;
   letter-spacing: 4%;
-  font-size: 25px;
+  font-size: 36px;
   text-align: center;
   height: 100px;
   color: #337A5B;
+  font-weight: 400px;
+  top: 35px;
 }
 .cactus-plant{
 
@@ -81,4 +87,5 @@
 font-size: 20px;
 border-radius: 7px;
 margin-top: -50px;
+margin-left: 200px;
 }

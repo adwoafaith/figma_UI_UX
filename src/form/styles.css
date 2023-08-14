@@ -1,0 +1,56 @@
+.cover{
+  position: relative;
+  top: 120px;
+  background-image: url('../assets/arto-suraj-X7jtnqyn54M-unsplash\ 1.png');
+ height: 400px;
+}
+.form-name{
+  position: relative;
+  color: white;
+  font-size: 32px;
+  left: 90px;
+  bottom: 20px;
+  text-transform: capitalize;
+}
+.input{
+  position:absolute;
+  background-color: transparent;
+  border: solid 0.5px white;
+  width: 350px;
+  height: 30px;
+  
+}
+.input{
+  position: relative;
+  left: 480px;
+  top:20px;
+  width: 475px;
+    height: 48px;
+    flex-shrink: 0;
+}
+.form-names{
+ position:absolute;
+}
+.form-names{
+  position: relative;
+  top: 100px;
+  left: 20px;
+  
+}
+.form-btn{
+position:absolute;
+border-radius: 5px;
+background: #285A43;
+border-color: transparent;
+}
+.form-btn{
+  position: absolute;
+
+  right: 100px;
+     margin-top: -30px;
+  display: inline-flex;
+    padding: 12px 45px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}

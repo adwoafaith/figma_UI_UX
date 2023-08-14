@@ -1,12 +1,8 @@
 
- .body{
-    padding: 10px;
-    
-        
- }
- .container{
+ .container-mine{
      position: relative;
      display: flex;
+     top: 120px;
  }
  .small-icons{
      display: flex;
@@ -56,23 +52,32 @@
  }
  
  .title1{
+    position: relative;
      font-weight: bolder;
      color: #285A43;
-     
+     left: -50px;   
  }
  .title2{
+    position: relative;
      font-weight: bolder;
      color: #285A43;
+     right: 62px;
+     
      
  }
  .title3{
+    position: relative;
      font-weight: bolder;
      color: #285A43;
+     right: 70px;
+     top: 15px;
     
  }
  .title4{
+    position: relative;
      font-weight: bolder;
      color: #285A43;
+     right: 40px;
     
      
  }
@@ -110,4 +115,8 @@
  .text4{
      font-weight: 500;
  line-height: 150%; 
+ }
+ .text3{
+    position: relative;
+    top: 16px;
  }

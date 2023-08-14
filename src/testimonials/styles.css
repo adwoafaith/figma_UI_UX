@@ -2,22 +2,26 @@
     
  
 }
-.heading{
+.headings{
     text-align: center;
-    color: green;
+    color: #285A43;
     font-weight: bolder;
     text-align: center;
- 
-  position: relative
+    position: relative
 }
-.heading{
+.headings{
     position:absolute;
-    top: 50px;
     left: 500px;
-
+    font-family: Lato;
+    font-size: 36px;
+    font-style: normal;
+    top: 35px;
+    text-align: center;
 }
 
 .container-all{
+    position: relative;
+    top: 120px;
     padding: 50px;
     height: 500px;
     display: flex; /* Use display flex to create a flex container */
@@ -32,7 +36,8 @@ word-wrap: break-word;
 
 .overall{
     height: 350px;
-    
+    position: relative;
+    top: 35px;
     display: flex;
   
 }
@@ -48,28 +53,34 @@ position: absolute;
 .mydesign{
   
 
-    box-shadow: 2px 2px 2px rgba(0, green, blue, alpha);
+   
     box-sizing: border-box; 
-    border: 2px solid white;
-    background-color: rgb(24, 44, 136);
+    border: 20px   solid white;
+    background: #F8F8F8;
+    width: 400px;
+    height: 329px;
+  
      
 }
 .icons-back{
     width: 20px;
-    opacity: 100px;
+    
     height: 10px;
  
  
 }
 .icons-back img{
     position:absolute;
-    opacity: 2px;
-    width: 100px;
-  
+    border-radius: 50px;
+    width: 150px;
+    opacity: 0.7;
   
     
 }
 .icons-back img{
     position: relative;
+    bottom: 70px;
     left: 100px;
+ 
+    
 }

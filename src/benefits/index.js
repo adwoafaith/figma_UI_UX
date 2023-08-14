@@ -8,7 +8,7 @@ import './styles.css'
 const Galary =() =>{
 return(
     <main className="body">
-         <div className="container">
+         <div className="container-mine">
             <span className="small-icons">
             <div className="image">
                 <img src={Image} alt="image"/>

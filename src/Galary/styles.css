@@ -1,0 +1,23 @@
+.galary-container{
+display: flex;
+top: 180px; 
+ 
+ 
+}
+/* .all-container{
+   position: relative;
+   display: flex;
+   flex-wrap: wrap;
+   background-color: red;
+
+} */
+.all-four{
+    display: flex;
+    flex-wrap: wrap;
+    width: 270px;
+        height: 380px;
+}
+.all-container{
+    display:flex;
+    flex-wrap:wrap;
+}

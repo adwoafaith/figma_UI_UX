@@ -1,6 +1,7 @@
 import React from 'react'
 import './style.css'
 import GroupMask from '../assets/Mask group.svg'
+import vidIcon from '../assets/material-symbols_play-circle-outline-rounded.png'
 
 const  Flower =()=> {
   return (
@@ -25,7 +26,9 @@ const  Flower =()=> {
     
       <div className='button-container' >
         <button className='button'> Book now</button>
-        <button className='btns'> Watch Video</button>
+        <button className='btns'> 
+        <img src={vidIcon} alt='video-icon' className='vidIcon'/>
+        Watch Video</button>
       </div>
 
 
